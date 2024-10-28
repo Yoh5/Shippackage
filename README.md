@@ -1,6 +1,6 @@
 # Nom du Projet
 
-Description brève du projet.
+ShipPackage est un projet conçu pour suivre le processus des commandes en ligne
 
 ## Installation
 
